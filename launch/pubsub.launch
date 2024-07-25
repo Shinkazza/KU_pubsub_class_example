@@ -1,0 +1,4 @@
+<launch>
+ <node pkg="pubsub" type="example" name="my_pubsub_node" output="screen" >
+ </node>
+</launch>
